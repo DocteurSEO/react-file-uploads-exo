@@ -1,0 +1,20 @@
+# 🚀 Lancer le Projet avec Express et Multer 📦
+
+Ce projet est une application Express simple qui utilise Multer pour gérer les téléchargements de fichiers.
+
+## Prérequis 📋
+
+Avant de commencer, assurez-vous d'avoir Node.js installé sur votre machine.
+
+## Installation 🛠️
+
+1. **Installer le projet**
+   ```bash
+   npm install
+   ```
+
+2. **Lancer le projet**
+
+```
+node index
+```
